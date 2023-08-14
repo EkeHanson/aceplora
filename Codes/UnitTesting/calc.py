@@ -18,3 +18,6 @@ def divide(x,y):
 
 print(multiply(2,3))
 print(add(2,3,4))
+print(subtract(67,76)
+print(divide(99, 31)
+
