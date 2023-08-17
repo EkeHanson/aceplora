@@ -1,0 +1,6 @@
+2023-08-10 15:31:12,736 - ERROR - Exception thrown
+Traceback (most recent call last):
+  File "c:\Users\Zed\OneDrive\Desktop\python\loging\main.py", line 16, in <module>
+    result = 5 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
